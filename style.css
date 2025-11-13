@@ -8,7 +8,8 @@ header {
 body {
     color: rgb(255, 255, 255);
     background: black;
-}
+}   margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
 
 section {
      background:rgb(80, 9, 9);
