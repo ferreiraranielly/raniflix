@@ -1,27 +1,27 @@
-header {
-   border: solid 2px rgb(107, 11, 37); 
-   padding: 20px;
-   font-size: 32px;
-   color: rgb(245, 240, 242);
-}
-
 body {
-    color: rgb(255, 255, 255);
+    color: white;
     background: black;
-   margin: 0px;
+    margin: 0px;
     font-family: "Chakra Petch", sans-serif;
 }
 
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
 section {
-     background:rgb(80, 9, 9);
-     padding-bottom: 80px;
-     padding-top: 80px;
-     display:flex;
-     justify-content: center;
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
 
 .chamada-texto {
-    margin-right: 15%;
+    margin-right: 5%;
 }
 
 h1 {
