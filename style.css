@@ -32,13 +32,13 @@ p {
 }
 
 img {
-    height: 200px;
+    height: 400px;
 }
 
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    gap: 15px;
+    gap: 10px;
 }
 
 .categoria {
